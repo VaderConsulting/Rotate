@@ -18,6 +18,10 @@ XNA Game Studio 3.1 Windows class-library stub. `Class1` is empty. A nested Cont
 
 Open `Rotate.sln` in Visual Studio 2008 with XNA Game Studio 3.1.
 
+## Requirements
+
+- Visual Studio 2008, .NET Framework 3.5
+
 ## Attribution and provenance
 
 From Dave Robinson's Historical Dev archive (OneDrive folder `Rotate`). Assembly company/copyright are the Visual Studio Microsoft 2010 defaults.
