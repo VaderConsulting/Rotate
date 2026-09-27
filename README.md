@@ -24,6 +24,8 @@ Open `Rotate.sln` in Visual Studio 2008 with XNA Game Studio 3.1.
 
 ## Attribution and provenance
 
+Working copy from my Historical Dev folder.
+
 From Dave Robinson's Historical Dev archive (OneDrive folder `Rotate`). Assembly company/copyright are the Visual Studio Microsoft 2010 defaults.
 
 ## License
