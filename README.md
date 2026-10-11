@@ -30,4 +30,4 @@ From my Historical Dev archive (folder `Rotate`). Assembly company/copyright are
 
 ## License
 
-MIT License. Copyright (c) 2026 VaderConsulting.
+MIT License. Copyright (c) 2026 Vader Consulting.
